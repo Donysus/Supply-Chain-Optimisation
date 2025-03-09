@@ -1,4 +1,4 @@
-# Supply-Chain-Optimisation
+# Supply-Chain-Optimization
 This project implements a supply chain optimization model using the [PuLP](https://coin-or.github.io/pulp/) library in Python. The objective is to minimize transportation costs while distributing supply from warehouses to retailers under supply and demand constraints.
 
 ## Features
